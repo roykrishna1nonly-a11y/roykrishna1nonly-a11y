@@ -43,8 +43,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roykrishna1nonly-a11y&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roykrishna1nonly-a11y&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -52,7 +50,7 @@
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/krishna-roy-207319411/)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/krishna-roy-207319411/)
 - 📧 **Email:** `roykrishna1nonly@gmail.com`
 
 ---
